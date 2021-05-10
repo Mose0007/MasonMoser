@@ -1,0 +1,30 @@
+﻿nav {
+    background-color: rgb(153, 187, 255);
+    width: 23%;
+}
+#objective {
+    background-color: rgb(153, 187, 255);
+}
+#name {
+    background-color: rgb(153, 187, 255);
+}
+#name{
+    text-align:center;
+    width:23%;
+}
+#objective{
+    padding-left:5%;
+    padding-right:5%;
+}
+table{
+    align-items:center;
+}
+nav div,h4 {
+    padding-right:5%;
+    padding-left:5%;
+    padding-bottom:1%;
+    padding-top:1%;
+}
+#name p{
+    font-size:xx-large;
+}
