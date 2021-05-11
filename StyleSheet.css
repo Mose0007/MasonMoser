@@ -49,9 +49,13 @@ nav div,h4 {
     padding-left:5%;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-    #infopage div {
+    #infopage div div {
         padding-left: 22%;
         padding-right: 5%;
+        padding-bottom:1%;
+    }
+    #infopage div div div {
+        padding-bottom:5%;
     }
 #infopage h4 {
     padding-left: 22%;
