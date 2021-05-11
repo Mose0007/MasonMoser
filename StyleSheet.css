@@ -1,7 +1,7 @@
 ﻿nav {
     background-color: rgb(185, 70, 70);
     width: 22.5%;
-    height: auto;
+    height:100%;
     border: groove;
     border-width: medium;
     color: rgb(255, 230, 204);
@@ -60,7 +60,7 @@ nav div,h4 {
     padding-left: 22%;
 }
 img{
-    border-radius:40px;
+    border-radius:80px;
     width:28%;
     height:28%;
 
@@ -72,5 +72,7 @@ html {
     background: linear-gradient(to bottom right, #ffffcc 49%, #990000 141%);
     
 }
-
+ul{
+    list-style-type:square;
+}
 
