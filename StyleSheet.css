@@ -1,12 +1,23 @@
 ﻿nav {
     background-color: rgb(153, 187, 255);
-    width: 23%;
+    width: 22.5%;
+    height: auto;
+    border: groove;
+    border-width: medium;
 }
 #objective {
     background-color: rgb(153, 187, 255);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border:groove;
+    border-width:medium;
 }
 #name {
     background-color: rgb(153, 187, 255);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border: groove;
+    border-width: medium;
 }
 #name{
     text-align:center;
@@ -28,4 +39,21 @@ nav div,h4 {
 #name p{
     font-size:xx-large;
 }
-
+#infopage{
+    padding-left:5%;
+}
+#infopage div{
+    padding-left:22%;
+}
+#infopage h4 {
+    padding-left: 22%;
+}
+#infopage h2 {
+    padding-left: 22%;
+}
+img{
+    border-radius:80px;
+    width:20%;
+    height:20%;
+    transform:scale3d();
+}
